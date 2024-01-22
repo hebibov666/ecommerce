@@ -1,0 +1,239 @@
+[
+    {
+       "id":1,
+       "title":"Xiaomi Redmi Note 12",
+       "stock":10,
+       "price":569,
+       "discount":10,
+       "img":"https://img.mobgsm.com/pictures/xiaomi/redmi-note-12-5g-international-0.webp",
+       "category":"Smartphones"
+    },
+    {
+       "id":2,
+       "title":"Samsung Galaxy A54",
+       "stock":0,
+       "price":499,
+       "discount":7,
+       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyh2Kc1XSFIREmCjgfKnbvbnyN1dsdf_FqOQ&usqp=CAU ",
+       "category":"Smartphones"
+    },
+    {
+       "id":3,
+       "title":"Xiaomi 13 Lite",
+       "stock":5,
+       "price":569,
+       "discount":0,
+       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSmp8PeNxh_3-IWLWEnNgu3vNJfP9x7-SeOw&usqp=CAU ",
+       "category":"Smartphones"
+    },
+    {
+       "id":4,
+       "title":"Xiaomi Poco X5",
+       "stock":0,
+       "price":450,
+       "discount":0,
+       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJwEAUg77yPYCK09-axReWDxW1bz-CDaNjBg&usqp=CAU ",
+       "category":"Smartphones"
+    },
+    {
+       "id":5,
+       "title":"Energizer E242S",
+       "stock":7,
+       "price":50,
+       "discount":5,
+       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbWEB5YpdAA3iQEpTGdn5H_REfh5UMsQtwsg&usqp=CAU ",
+       "category":"Smartphones"
+    },
+    {
+       "id":6,
+       "title":"Honor X8A",
+       "stock":9,
+       "price":550,
+       "discount":0,
+       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdbiaG4n2eyvMc3ebkjDF1dTF_X9u_2wl7GA&usqp=CAU ",
+       "category":"Smartphones"
+    },
+    {
+       "id":7,
+       "title":"Honor X7A",
+       "stock":30,
+       "price":329,
+       "discount":10,
+       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWxPjQhr1KmsvI0I5roPP9_ggfc_NXp8893g&usqp=CAU",
+       "category":"Smartphones"
+    },
+    {
+       "id":8,
+       "title":"Motorola Edge 30",
+       "stock":17,
+       "price":399,
+       "discount":10,
+       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwR9u-eF7Fg_lYlpJ5uDmxqVGSG5BPtn5eNA&usqp=CAU ",
+       "category":"Smartphones"
+    },
+    {
+       "id":9,
+       "title":"Tecno Comon 19A",
+       "stock":4,
+       "price":150,
+       "discount":0,
+       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRBa-GKQky2wf6JCy4XrbuBVMnpkmT3ZGbjA&usqp=CAU ",
+       "category":"Smartphones"
+    },
+    {
+       "id":10,
+       "title":"Nokia G20",
+       "stock":4,
+       "price":300,
+       "discount":10,
+       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4EexgjLPxrClJ-Itu1ZxZ24CLvsrilJ3gmw&usqp=CAU",
+       "category":"Smartphones"
+    },
+    {
+       "id":11,
+       "title":"HP ProBook 450",
+       "stock":4,
+       "price":699,
+       "discount":15,
+       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5srg9FcRum_De7yBafZaAQkgIGxxdugGdEw&usqp=CAU ",
+       "category":"Notebooks"
+    },
+    {
+       "id":12,
+       "title":"HP Victus",
+       "stock":4,
+       "price":669,
+       "discount":20,
+       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5srg9FcRum_De7yBafZaAQkgIGxxdugGdEw&usqp=CAU",
+       "category":"Notebooks"
+    },
+    {
+       "id":13,
+       "title":"HP Pavilion X360",
+       "stock":4,
+       "price":949,
+       "discount":10,
+       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5srg9FcRum_De7yBafZaAQkgIGxxdugGdEw&usqp=CAU ",
+       "category":"Notebooks"
+    },
+    {
+       "id":14,
+       "title":"HP Envy Laptop",
+       "stock":4,
+       "price":429,
+       "discount":0,
+       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5srg9FcRum_De7yBafZaAQkgIGxxdugGdEw&usqp=CAU ",
+       "category":"Notebooks"
+    },
+    {
+       "id":15,
+       "title":"HP Notebook 256GB",
+       "stock":4,
+       "price":629,
+       "discount":0,
+       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5srg9FcRum_De7yBafZaAQkgIGxxdugGdEw&usqp=CAU ",
+       "category":"Notebooks"
+    },
+    {
+       "id":16,
+       "title":"HP Elitebook",
+       "stock":40,
+       "price":579,
+       "discount":0,
+       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5srg9FcRum_De7yBafZaAQkgIGxxdugGdEw&usqp=CAU ",
+       "category":"Notebooks"
+    },
+    {
+       "id":17,
+       "title":"HP PB650GB",
+       "stock":5,
+       "price":489,
+       "discount":10,
+       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5srg9FcRum_De7yBafZaAQkgIGxxdugGdEw&usqp=CAU ",
+       "category":"Notebooks"
+    },
+    {
+       "id":18,
+       "title":"Dell Vostro 15",
+       "stock":22,
+       "price":399,
+       "discount":10,
+       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5srg9FcRum_De7yBafZaAQkgIGxxdugGdEw&usqp=CAU ",
+       "category":"Notebooks"
+    },
+    {
+       "id":19,
+       "title":"Hp Pavilion",
+       "stock":40,
+       "price":669,
+       "discount":10,
+       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5srg9FcRum_De7yBafZaAQkgIGxxdugGdEw&usqp=CAU",
+       "category":"Notebooks"
+    },
+    {
+       "id":20,
+       "title":"Asus K513 EA",
+       "stock":40,
+       "price":860,
+       "discount":10,
+       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5srg9FcRum_De7yBafZaAQkgIGxxdugGdEw&usqp=CAU ",
+       "category":"Notebooks"
+    },
+    {
+       "id":21,
+       "title":"Asus K513 EA",
+       "stock":40,
+       "price":760,
+       "discount":0,
+       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5srg9FcRum_De7yBafZaAQkgIGxxdugGdEw&usqp=CAU ",
+       "category":"Notebooks"
+    },
+    {
+       "id":22,
+       "title":"Appple Charger",
+       "stock":40,
+       "price":20,
+       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCRPhHVQE7FomIry_rKDGTBJHhAG9nIZLzgA&usqp=CAU ",
+       "category":"Accessories"
+    },
+    {
+       "id":23,
+       "title":"Samsung Galaxy A54 Case",
+       "stock":40,
+       "price":5,
+       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToWaHn5TV2qJLtumtSZBEduxJhbYa0pot-Jg&usqp=CAU ",
+       "category":"Accessories"
+    },
+    {
+       "id":24,
+       "title":"Samsung Watch USB",
+       "stock":40,
+       "price":7,
+       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrzN-2EtTc_StqLK72rd6SA5ccGF2OQ7Qb6g&usqp=CAU ",
+       "category":"Accessories"
+    },
+    {
+       "id":25,
+       "title":"K8 Microphone Wireless",
+       "stock":40,
+       "price":10,
+       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVgCp_PMly59VOZeabzj-4Kw2hbvoDFYmJng&usqp=CAU ",
+       "category":"Accessories"
+    },
+    {
+       "id":26,
+       "title":"Samsung USB-C port",
+       "stock":40,
+       "price":4,
+       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUNZWkIWxYy3KiqTnOQZjsyLk7xZhZVvxUxg&usqp=CAU ",
+       "category":"Accessories"
+    },
+    {
+       "id":27,
+       "title":"Xiaomi Pocket Edition",
+       "stock":40,
+       "price":20,
+       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDCYrkr2c0oPjb7sZkhuGBoAmQugM8XIWqcg&usqp=CAU",
+       "category":"Accessories"
+    }
+ ]
